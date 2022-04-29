@@ -1,7 +1,12 @@
 # Twin-Stick-Shooter
 First project in Unity
 
-The goal of this project was to learn the basics of unity
+The goal of this project was to learn the basics of unity.
+
+Play the game: https://elio1.itch.io/twin-stick-shooter
+
+
+
 
 Modification des Scripts Template pour changer le contenu de base d'un Script
 
